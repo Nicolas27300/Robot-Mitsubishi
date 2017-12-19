@@ -1,7 +1,5 @@
 <?php
 
-include_once 'class/LireJoint.php';
-
 class RobotArm {
 
     private $bconnectTcp = false;
